@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Isaac Khounborine is a Hendrix College Undergraduate planning to be a Computer
+Science major.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Why am I doing this in third person? I don't know. Enough with that, here I am!
+Learning about computers and how they work and how the internet works, websites, etc.
+has always been interesting to me. The effort it takes into making such a completely
+connected network continues to baffle me even when I learn more about how it all works.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Technology is always evolving and Computer Science, along with programming, will
+always be a part of that process. I hope to be a person who can commit my own
+efforts to see technology evolve even further. 
