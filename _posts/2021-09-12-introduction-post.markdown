@@ -2,6 +2,7 @@
 layout: post
 title:  "Introduction Post"
 date:   2021-09-10 14:32:13 -0500
+author: Isaac Khounborine
 categories: jekyll update
 ---
 Alright! This is actually the third time I had to create this file since:
