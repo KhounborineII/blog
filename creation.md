@@ -20,4 +20,4 @@ obligations to my other work.
 
 It is strange to talk about the passion of creating a drawing while in an MD file
 which should be about my passion of coding. Yet, as I am here, you should assume that
-my passion for coding is the same. 
+my passion for coding is the same.
