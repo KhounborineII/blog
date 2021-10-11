@@ -36,4 +36,5 @@ the one to create the search bar and such.
 As required per the lab instructions: [My Lab 7 Repository](https://github.com/KhounborineII/csci340lab7).
 
 I almost thought I had to link it through my KhounborineII.github.io website.
-Thank you for clearing that up! 
+
+Thank you for clearing that up!
