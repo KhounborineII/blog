@@ -1,5 +1,6 @@
+---
 layout: post
-title:  "Lab 8 Reflection Post"
+title:  "CSCI 340 - Lab 8 Reflection Post"
 date:   2021-10-25 19:46:43 -0500
 author: Isaac Khounborine
 categories: jekyll update
@@ -26,4 +27,4 @@ To do this in preparation of creating our website for our Final Project is
 absolutely necessary, but I am concerned with the countless files we would be
 working through to get this all to work. I know on that this project is probably
 conceptually one of the easier ones, nonetheless, I hope that my team and I can
-make this work. 
+make this work.

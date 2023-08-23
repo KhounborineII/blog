@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lab 6 Reflection Post"
+title:  "CSCI 340 - Lab 6 Reflection Post"
 date:   2021-09-30 21:20:39 -0500
 author: Isaac Khounborine
 categories: jekyll update
@@ -35,4 +35,4 @@ adjusted as well.
 That one `COUNT()` vs `SUM()` threw me in a loop for a long time, but once I did it
 the longest part of this lab was simply doing the tutorial. One suggestion to
 the lab would probably include the `headers on` and `mode column` that you
-demonstrated in class so we can view the tables normally. 
+demonstrated in class so we can view the tables normally.

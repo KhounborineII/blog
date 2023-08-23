@@ -1,5 +1,6 @@
+---
 layout: post
-title:  "Lab 9 Reflection Post"
+title:  "CSCI 340 - Lab 9 Reflection Post"
 date:   2021-11-27 1:56:31 -0500
 author: Isaac Khounborine
 categories: jekyll update
