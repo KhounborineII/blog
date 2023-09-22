@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disco Tray Studios - September 6th Update"
+title:  "Disco Tray Studios - September 13th Update"
 date:   2023-9-13 11:40:17 -0500
 author: Isaac Khounborine
 categories: jekyll update
